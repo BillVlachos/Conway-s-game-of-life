@@ -1,5 +1,5 @@
 # Conway's game of life simulator
-This project is a simulation of Conway's Game of life with lot's of features for the user so that he can experiment and test things on the Conway's game of life algorithm.
+This project is a simulation of Conway's Game of life written in python with lot's of features for the user so that he can experiment and test things on the Conway's game of life algorithm.
 
 In order to run the file (Conway's_Game_of_life.py) it must be in the same folder with the following files:
 finalbackround.png
